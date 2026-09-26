@@ -1,0 +1,11 @@
+classes (Lớp): Bộ khung để tạo ra các objects (Đối tượng)
+Objects: là các đối tượng đại diện cho các thực thể
+Attributes: là các thuộc tính của đối tượng
+Method: là phương thức 
+Các tính chất trong OOP: Kế thừa (Inheritance), Đóng gói (Encapsulation), Đa hình (Polymorphism), Trừu tượng (Abstraction)
+
+Kế thừa (Inheritance):
+class <Ten_lop_cha>:
+    <Các câu lệnh của lớp cha>
+class <Ten_lop_con>(<Ten_lop_cha>):
+    <Các câu lệnh của lớp con>
